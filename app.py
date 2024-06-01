@@ -35,7 +35,7 @@ Welcome to our hub where you can find various analysis projects and models we've
 
 # List of Streamlit apps with more styling
 apps = [
-    {"name": "IPL Orange Cap Analysis", "link": "https://ipl-orange-cap.streamlit.app/", "description": "This app does amazing things with data."},
+    {"name": "IPL Orange Cap Analysis", "link": "https://ipl-orange-cap.streamlit.app/", "description": "Discover the top IPL Orange Cap batters and their stats with our easy-to-use Streamlit web app. See detailed performance trends and compare players. Plus, get a clear team-wise analysis to understand how each team performs in the league."},
     
     # Add more apps as needed
 ]
