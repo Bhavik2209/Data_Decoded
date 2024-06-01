@@ -97,7 +97,7 @@ st.markdown("""
             <div class="footer-icons">
                 <a href="https://github.com/Bhavik2209" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub"></a>
                 <a href="https://linkedin.com/in/bhavik-rohit" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn"></a>
-                <a href="https://twitter.com/yourusername" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter"></a>
+                <a href="https://x.com/BhavikRohit22" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Twitter"></a>
             </div>
         </div>
     </div>
